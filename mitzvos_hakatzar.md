@@ -1,9 +1,9 @@
 # Book of Mitzvos
 ### Based on the  Sefer Mitzvos Hakatzar of the Chafetz Chayim
 ---
-## Positive Mitzvos
-1. [Belief in God](#1.-Belief-in-God)
-2. [Oneness of God ](#2.-Oneness-of-God )
+## Positive Mitzvos 
+1. [Belief in God](#1-Belief-in-God)
+2. [Oneness of God ](#2-Oneness-of-God )
 3. [Loving God](#3.-Loving-God)
 4. [Fearing God](#4.-Fearing-God)
 5. [Sanctifying God's name in public](#5.-Sanctifying-God's-name-in-public)
