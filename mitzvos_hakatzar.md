@@ -183,10 +183,19 @@ There was a man once who was dying and decided to learn while walking, because h
     רַק הִשָּׁמֶר לְךָ וּשְׁמֹר נַפְשְׁךָ מְאֹד פֶּן־תִּשְׁכַּח אֶת־הַדְּבָרִים אֲשֶׁר־רָאוּ עֵינֶיךָ וּפֶן־יָסוּרוּ מִלְּבָבְךָ כֹּל יְמֵי חַיֶּיךָ **וְהוֹדַעְתָּם לְבָנֶיךָ וְלִבְנֵי בָנֶיךָ**׃
 - When your child starts to be able to talk, you should teach him to say
 
-תורה צוה לנו משה (דברים לג, ד)
-- You have to hire a tutor to teach your son Torah. 
-- A woman is exempt from learning or teaching Torah. But still she should try to have her children come out to be not ignoramuses.
-- On a scale, Torah is equal in weight to all of the mitzvos. (It is a question if that means all *other* 612 mitzvos, or literally *all* the mitzvos including Talmusd Torah.) Why? Because learning will bring you to do the mitzvos. Why is that? Three reasons: First, you will know what laws to keep. Second, you will be busy learning and thus too busy to get drawn after the yetzer hara. And third, you will learn the harsh punishments for all the sins, and thus be motivated to not transgress any of them. 
+    "תורה צוה לנו משה"
+    
+    (דברים לג, ד)
+
+
+- You must hire a tutor to teach your son Torah. 
+- A woman is exempt from learning or teaching Torah. But still she should make an effort for her children not grow to be ignorant.
+- On a scale, Torah is equal in weight to all of the mitzvos. 
+    - (It is a question if that means all *other* 612 mitzvos, or literally *all* the mitzvos including Talmusd Torah.) 
+    - Why? Because learning will bring you to do the mitzvos. Why is that? Three reasons: 
+    1. You will know what laws to keep. 
+    2. You will be busy learning and thus too busy to get drawn after the yetzer hara. 
+    3. You will learn the harsh punishments for all the sins, and thus be motivated to not transgress any of them. 
 
 ## 15. Writing a Sefer Torah
 טו. מצות עשה שכל אחד מישראל יכתוב לו ספר תורה. שנאמר (דברים לא,יט): "כתבו לכם את השירה הזאת", ופירשו: כתבו את התורה שיש בה שירה זאת; שאין כותבין את התורה פרשיות פרשיות. ואם כתבו בידו, מעלה עליו הכתוב כאלו קבלה מהר סיני; ואם אי אפשר לו לכתוב בעצמו, צריך לקנותה או שישכור מי שיכתבנה לו. ואף על פי שיש לו ספר תורה מאבותיו, מצוה לכתוב משלו. ואם הגיה בספר תורה אות אחת, הרי זה כאלו כתב כל התורה. וכתב הרא"ש זכרונו לברכה, דכל זה בדורות הראשונים, שהיו כותבין ספר תורה ולומדים מתוכה, אבל בימינו, שכותבין ספר תורה ומניחין אותה בבית הכנסת לקרות בה ברבים, מצות עשה על כל איש מישראל שידו משגת, לקנות חומשים, משניות וש"ס ופירושיהן, כדי להגות בהם הוא ובניו. כי מצות כתיבת התורה היא כדי ללמד בה, ועל ידי הגמרא ופירושיה, ידע פירוש המצוות והדינים על בוריים על כן, הן הן הספרים שאדם מצווה על כתיבתן. ומי שיש בכחו לקיים שניהם כפשוטו, אשרי חלקו. ונוהג בכל מקום ובכל זמן, בזכרים ולא בנקבות:
