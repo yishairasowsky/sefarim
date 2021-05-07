@@ -153,6 +153,17 @@ Devarim 6:9
 וְאָכַלְתָּ וְשָׂבָעְתָּ **וּבֵרַכְתָּ** אֶת־יְהוָה אֱלֹהֶיךָ עַל־הָאָרֶץ הַטֹּבָה אֲשֶׁר נָתַן־לָךְ׃
 
 Devarim 6:9
+
+**On what foods do we recite birkas hamazon?**
+
+
+We should recite birkas hamazon after eating bread.
+
+
+**On what foods do we recite birkas hamazon?**
+
+We should recite birkas hamazon after eating bread.
+
 - We should recite birkas hamazon after eating bread.
 - The Torah obligation is only if I eat so much that I am satiated. 
 - But Chazal ruled that we should bensch even if we only ate the volume of a kezayis. That is one half -- or some say one third -- the size of an egg. Opinions differ if we should use ~30 cc, based on the size of a modern day egg, or must we use a larger value 50 cc, since it can be argued that the size of eggs has shrunk.  
