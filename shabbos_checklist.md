@@ -1,42 +1,43 @@
 # Shabbos Preparations
 
 ## Thursday
-- [ ] Floors
-- [ ] Garbage in kitchen
-- [ ] Garbage in big bathroom
-- [ ] Garbage in little bathroom
-- [ ] Garbage in master bedroom
+- [ ] Floors - mop 'em
+- [ ] Garbages
+    - [ ] kitchen
+    - [ ] big bathroom
+    - [ ] little bathroom
+    - [ ] master bedroom
 - [ ] Bathroom floors
     - [ ] Sweep big bathroom
     - [ ] Sweep little bathroom
+    - [ ] Wipe big bathroom
+    - [ ] Wipe little bathroom
+
 ---
 ## Friday
-- [ ] Floors
-- [ ] Excercise
-- [ ] Shower
 - [ ] Nails
 - [ ] Candles
-- [ ] Times post
-- [ ] Eat lunch
-- [ ] Carrots peel 'em
 - [ ] Thaw meat
-- [ ] Paper towels rip 'em
-- [ ] Table cloth - spread it
+- [ ] Times - post 'em
+- [ ] Eat lunch
 - [ ] Put food on stove
 - [ ] Turn plata on
 - [ ] Put food on plata
-- [ ] Book lamp - turn it on
-- [ ] A/C timer
+- [ ] Paper towels rip 'em
 - [ ] Fan - taped
 - [ ] Washer and dryer - should be unplugged
-- [ ] How water urn - should be full and on Shabbos mode
-- [ ] Grape juice bottle - shuold be full, opened, and in fridge  
 - [ ] Children's sink - wipe clean
-- [ ] Dude shemesh
-- [ ] Dishes - wash 'em
+- [ ] Book lamp - turn it on
+- [ ] A/C timer - set it
+- [ ] How water urn - should be full and on Shabbos mode
+- [ ] Grape juice bottle - should be full, opened, and in fridge  
 - [ ] Filter faucet - cover it
-- [ ] 
-- [ ] 
+- [ ] Carrots peel 'em
+- [ ] Dishes - wash 'em
+- [ ] Dude shemesh - turn it off
+- [ ] Table cloth - spread it
+- [ ] Exercise
+- [ ] Shower - take it after running
 
 ---
 ## Last minute before Shabbos
