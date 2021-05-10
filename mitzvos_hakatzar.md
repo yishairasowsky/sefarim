@@ -9,6 +9,7 @@
 5. [Sanctifying God's name in public](#5-Sanctifying-God's-name-in-public)
 
 ---
+()[]
 ### 1. Belief in God
 .**אָֽנֹכִ֖י֙ יְהוָ֣ה אֱלֹהֶ֑֔יךָ** אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִֽ֑ים
 
@@ -209,9 +210,47 @@ There was a man once who was dying and decided to learn while walking, because h
     3. You will learn the harsh punishments for all the sins, and thus be motivated to not transgress any of them. 
 
 ## 15. Writing a Sefer Torah
-טו. מצות עשה שכל אחד מישראל יכתוב לו ספר תורה. שנאמר (דברים לא,יט): "כתבו לכם את השירה הזאת", ופירשו: כתבו את התורה שיש בה שירה זאת; שאין כותבין את התורה פרשיות פרשיות. ואם כתבו בידו, מעלה עליו הכתוב כאלו קבלה מהר סיני; ואם אי אפשר לו לכתוב בעצמו, צריך לקנותה או שישכור מי שיכתבנה לו. ואף על פי שיש לו ספר תורה מאבותיו, מצוה לכתוב משלו. ואם הגיה בספר תורה אות אחת, הרי זה כאלו כתב כל התורה. וכתב הרא"ש זכרונו לברכה, דכל זה בדורות הראשונים, שהיו כותבין ספר תורה ולומדים מתוכה, אבל בימינו, שכותבין ספר תורה ומניחין אותה בבית הכנסת לקרות בה ברבים, מצות עשה על כל איש מישראל שידו משגת, לקנות חומשים, משניות וש"ס ופירושיהן, כדי להגות בהם הוא ובניו. כי מצות כתיבת התורה היא כדי ללמד בה, ועל ידי הגמרא ופירושיה, ידע פירוש המצוות והדינים על בוריים על כן, הן הן הספרים שאדם מצווה על כתיבתן. ומי שיש בכחו לקיים שניהם כפשוטו, אשרי חלקו. ונוהג בכל מקום ובכל זמן, בזכרים ולא בנקבות:
-16
 
-15
-טו. מצות עשה שכל אחד מישראל יכתוב לו ספר תורה. שנאמר (דברים לא,יט): "כתבו לכם את השירה הזאת", ופירשו: כתבו את התורה שיש בה שירה זאת; שאין כותבין את התורה פרשיות פרשיות. ואם כתבו בידו, מעלה עליו הכתוב כאלו קבלה מהר סיני; ואם אי אפשר לו לכתוב בעצמו, צריך לקנותה או שישכור מי שיכתבנה לו. ואף על פי שיש לו ספר תורה מאבותיו, מצוה לכתוב משלו. ואם הגיה בספר תורה אות אחת, הרי זה כאלו כתב כל התורה. וכתב הרא"ש זכרונו לברכה, דכל זה בדורות הראשונים, שהיו כותבין ספר תורה ולומדים מתוכה, אבל בימינו, שכותבין ספר תורה ומניחין אותה בבית הכנסת לקרות בה ברבים, מצות עשה על כל איש מישראל שידו משגת, לקנות חומשים, משניות וש"ס ופירושיהן, כדי להגות בהם הוא ובניו. כי מצות כתיבת התורה היא כדי ללמד בה, ועל ידי הגמרא ופירושיה, ידע פירוש המצוות והדינים על בוריים על כן, הן הן הספרים שאדם מצווה על כתיבתן. ומי שיש בכחו לקיים שניהם כפשוטו, אשרי חלקו. ונוהג בכל מקום ובכל זמן, בזכרים ולא בנקבות:
-16
+וְעַתָּ֗ה **כִּתְב֤וּ לָכֶם֙ אֶת־הַשִּׁירָ֣ה הַזֹּ֔את** וְלַמְּדָ֥הּ אֶת־בְּנֵי־יִשְׂרָאֵ֖ל שִׂימָ֣הּ בְּפִיהֶ֑ם לְמַ֨עַן תִּהְיֶה־לִּ֜י הַשִּׁירָ֥ה הַזֹּ֛את לְעֵ֖ד בִּבְנֵ֥י יִשְׂרָאֵֽל׃
+
+Devarim 31:19
+
+- Every Jew must write a sefer Torah.
+- The above verse obliges us to write the song of Haazinu. But we cannot write just one portion of the Torah without writing all of it. Therefore, we must write the entire Torah, which includes the song of Haazinu. 
+- If you do write it, then it is considered as if you recevied the Torah from Har Sinai. 
+- If you are not able to write one, then you shuold buy one or hire someone else to write one.
+- Even if you inherited a sefer Torah as a family heirloom, still you have to write a new one yourself.
+- If you write or fix one letter in a Torah scroll, then it is considered that you wrote the entire thing. 
+- According to the Rosh, the classical version of this mitzvah - i.e. writing an actual Torah scroll - only applied in the old days when people used the scroll for learning. But nowadays, since we only leave the Torah scroll in the shul for public Torah readings from time to time, and when we actually learn we do it from books, so then the real mitzvah is for each person to buy books of Tanach and Shas and commentaries and Halacha, so that he should be able to learn the laws of the Torah. 
+- Fortunate is someone who can actually manage to fulfill both versions of the mitzvah!    
+
+
+## 16. Be Close to Torah Scholars
+
+אֶת־יְהוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א אֹת֣וֹ תַעֲבֹ֑ד **וּב֣וֹ תִדְבָּ֔ק** וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃
+
+Devarim 10:20
+
+- You have to stick close to Torah sages and their disciples, and that will be like you are clinging to Hashem himself.
+- Therefore, you should marry the daughter of a Torah scholar.
+- You should marry your daughter to a Torah scholar. 
+- You should eat with Torah scholars.
+- You should provide him benefit from your assets.
+- You should be willing to sit at the dust of the feet of Torah scholars, and thirstily drink up their words.
+
+## 17. Standing up for Senior Citizens and Honoring Torah Scholars
+
+**מִפְּנֵ֤י שֵׂיבָה֙ תָּק֔וּם וְהָדַרְתָּ֖ פְּנֵ֣י זָקֵ֑ן** וְיָרֵ֥אתָ מֵּאֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃
+
+Kedoshim 19:32
+
+- You must stand up when an older person -- even if he or she is not a wise man or woman -- when they walk by. 
+- A child, even if he is a big Torah schoar, must stand up for an elderly person; but he doesn't have to fully rise -- just standing up partially to show deference to the older person is enough. 
+- You must show honor to a "zaken", which means a Torah scholar, even if he is a young kid, you should stand up fully for him when he walks by.
+- When should you stand? When he reaches within four amos -- about seven feet -- distance of you, until he passes by you.
+- You also have to show honor to your Rav, even if you didn't learn most of your Torah knowledge from him. 
+- A Rav does have the ability to mochel and forgo this honor, in which case you do not have to honor him. 
+- It is a great sin to dishonor Torah scholars or to hate them.
+- Anyone who shames a Torah scholar has no portion to the world to come. 
+
+## 18. 
