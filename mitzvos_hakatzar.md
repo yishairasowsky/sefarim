@@ -253,4 +253,76 @@ Kedoshim 19:32
 - It is a great sin to dishonor Torah scholars or to hate them.
 - Anyone who shames a Torah scholar has no portion to the world to come. 
 
-## 18. 
+## 18. Fear the Mikdash
+
+אֶת־שַׁבְּתֹתַ֣י תִּשְׁמֹ֔רוּ **וּמִקְדָּשִׁ֖י תִּירָ֑אוּ** אֲנִ֖י יְהוָֽה׃
+
+Kedoshim 19:30
+
+Our shuls and batei midrashim are like a miniature Beis Hamikdash. 
+
+This is base on a [posuk in Yechezkel](https://www.sefaria.org.il/Ezekiel.11.16) 
+
+*"I [God] have become a little sanctuary to the Jews scattered over the world."*
+
+- Therefore inside a shul, you are not allowed to fool around too much or act with excessive levity. 
+- Even idle talk should be done outside of the shul.
+- Inside a shul, you should not conduct affairs of business, e.g. calculating amounts of money. 
+- Even sleeping should not be done in a shul. There is an exception to this for someone who always learns in the shul day and night, so then it is like his home. He is allowed to sleep there. 
+- The reason for all these restricitions is because the holiness, the sanctity and kedusha of a shul or beis medrash is very great. 
+
+
+## 19. Make Kiddush on Shabbos
+
+**זָכ֛וֹר֩** אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת **לְקַדְּשֽׁ֗וֹ**
+
+Yisro 20:8
+
+- You have to verbally declare the holiness of Shabbos. 
+- This should be done when Shabbos comes in, at kiddush; and also when Shabbos goes out, at havdala.
+- Chazal enacted that one should say these words over a cup of wine; on Friday night you can use bread as an alternative to wine. At havadala one can alternatively use *chamar medinah*, a prominent beverage.
+- You are not allowed to eat or drink before hearing Kiddush or Havdala. Drinking water before havdala is OK.
+- The Neviim added two mitzvos for us on Shabbos, one being *Oneg* pleasure, the other being *Kavod* honor. 
+We learn this from the [verse in Yeshaya](https://www.sefaria.org.il/Isaiah.58.13): *If you call Shabbat a delight, the honored holy day of God, then you enjoy Divine blessing.*
+- *Kavod*, honoring Shabbos, means taking a hot shower before hand, and getting dressed up in fine clean clothes.
+- *Oneg*, pleasure, means you shuld eat good quality food and drink. 
+- You have to eat three meals on Shabbos.
+- The more you spend on the cost of your meals for Shabbos, the more praiseworthy you are. Still, this shuold be done wihtin reason, meaning according to your means. 
+- Anyone who take pleasure in Shabbos, i.e. by eating fine food and drink, will receive a portion of unimlited bounds. God will grant your requests; and you will be free from being subjugated to the nations of the nations of the world.
+- After Shabbos too, you shuold set the table nicely for a fourth meal. This being Melaveh Malka. All you have to eat is a kezayis of bread, i.e. half a slice.
+- According to the opinion of Ramban, one can fulfill this mitzvah of remembering Shabbos even during the week. Just count the days of the week as they do in Eretz Yisrael: Sunday is Yom Rishon, the first day to Shabbos, Monday is Yom Sheni, etc. 
+- Likewise, when you find a nice fish or chicken in the store, and you buy it, when you are purchasing it, say out loud that you are buying it for Shabbos. 
+
+## 20. Cease from Melacha on Shabbos
+
+שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ **וּבַיּ֥וֹם הַשְּׁבִיעִ֖י תִּשְׁבֹּ֑ת** לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃
+
+Mishpatim 23:12
+
+- Not only we, but also our animals must cease doing melacha on Shabbos.
+- To tell a goy to do melacha for us is asur mid'rabanan. This is known as a shvus.
+- This obligation to rest on Shabbos applies to men and women equally. Some say that it applies only to men, but not to women. I heard from Rav Shraga Feivel Zimmerman that according to Rav Elyashiv that is the reason why you might think that it is better for a woman to do melacha for a choleh on Shabbos, rather than a man, because she doesn't have an aseh of tishbos. The halacha of course is that any Jew, man or woman, can and must do work on Shabbos if the choleh needs it.
+
+## 21. Rejoicing on Festivals
+
+**וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ** אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃
+
+Re'eh 16:14
+
+- When there was a Beis Hamikdash, the way we would perform this mitzvah of simcha is by bringing addtional korban chagigah known and shalmei simcha, besides the regular shalmei chagiga.
+
+- Not only men, but women also are obliged to rejoice on Yom Tov. Some say that it isn't the woman who needs to be joyful per se, but rather her husband who is obliged to bring her joy, for instance by buying her clothing. Likewise, in the case of children, the father must make them happy, for example by giving them treats.
+
+- Nowadays, that we don't have the korbanos metinoed above, we can only fulfill the mitzvah of simcha by eating meat and brinking wine. 
+
+- Not only must the man of the house provide nice clothes for his wife and treats for his children, but it is also a mitzvah to bring joy to the needy. 
+
+- If a person does provide for the poor, then the joy he creates at home is not a mitzvah, but rather he is just having a good time, which is really a shame, as the Navi Malachi (2:3) says: "I will fling manure on your face, the manure of your Yom Tov celebration."
+
+- Granted, there is a mitzvah to rejoice by eating and drinking extra special on Yom Tov, nevertheless one should not carry on too much with jesting and levity, because that is frivolty for fools. And we are not commandeed just to be drunk and merry, but rather rejoicing over the mitzvah. And, as the Rambam writes, the joy over doing a mitzvah is a great accomplishment in the service of God.
+
+## 22.
+
+- 
+
+<!-- https://www.sefaria.org.il/Sefer_HaMitzvot_HaKatzar%2C_Positive_Commandment.19?lang=bi&with=all&lang2=en -->
