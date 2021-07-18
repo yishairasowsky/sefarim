@@ -1,6 +1,4 @@
-|||
-|-:|:-|
-
+# Based upon [Sefaria](https://www.sefaria.org/Lamentations.1.1?ven=The_Rashi_Ketuvim_by_Rabbi_Shraga_Silverstein&lang=en&with=Translations&lang2=en)
 
 |||
 |-:|:-|
